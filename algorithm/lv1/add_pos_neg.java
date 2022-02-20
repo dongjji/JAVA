@@ -1,5 +1,3 @@
-package lv1;
-
 class add_pos_neg {
     public int solution(int[] absolutes, boolean[] signs) {
         int answer = 0;

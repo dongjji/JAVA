@@ -1,5 +1,3 @@
-package lv1;
-
 class intrinsic_inclination {
     public int solution(int[] a, int[] b) {
         int answer = 0;

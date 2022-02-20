@@ -1,5 +1,3 @@
-package lv1;
-
 import java.util.*;
 
 class marathon_lv1 {

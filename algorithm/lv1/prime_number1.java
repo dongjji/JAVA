@@ -1,5 +1,3 @@
-package lv1;
-
 class prime_number1 {
     public int solution(int[] nums) {
         int answer = 0;
